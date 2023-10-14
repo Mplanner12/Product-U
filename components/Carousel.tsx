@@ -4,9 +4,6 @@ import "slick-carousel/slick/slick-theme.css";
 import { carousel } from './data/carousel'
 import Image from "next/image";
 
-
-
-
 export const Carousel = () =>{
     const settings = {
         dots: false,
