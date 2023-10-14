@@ -29,16 +29,10 @@ module.exports = {
       backgroundImage:{
         'hero': "url('../public/vectors/images/bg.png')"
       },
-<<<<<<< HEAD
     },
-    fontFamily:{
-      "IBM" : 'IBM Plex Sans'
-=======
       fontFamily:{
         "IBM" : ['IBM Plex Sans', 'sans-serif']
-      }
->>>>>>> b4bf71bf3240c994200e1483e5b2721bf35205d2
+}
     },
-  },
-  plugins: [],
+ plugins: [],
 }
