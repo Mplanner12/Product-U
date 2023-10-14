@@ -1,4 +1,4 @@
-import Alex from '../mentorImage/Alex.png'
+import Ale from '../mentorImage/Alex.png'
 import Srid from '../mentorImage/Sridhar.png'
 import Serg from '../mentorImage/Sergei.png'
 import AlexComp from "../mentorImage/AlexComp.png"
@@ -7,7 +7,7 @@ import SergeiComp from "../mentorImage/SergComp.png"
 const Data = [
     {
         id : 1,
-        image : Alex,
+        image : Ale,
         name : "Alex Atriach",
         title : "Product Director",
         compImage : AlexComp
