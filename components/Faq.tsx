@@ -1,9 +1,6 @@
 import { faq } from '../components/data/faq'
 import { useState } from 'react'
 
-
-
-
 const Faq = () => {
     const [expandedIndex, setExpandedIndex] = useState(-1);
     const toggleExpand = (index) => {
