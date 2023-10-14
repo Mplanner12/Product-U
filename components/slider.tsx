@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import Marquee from "react-fast-marquee"
 
 export default function Slider() {
@@ -20,7 +19,7 @@ export default function Slider() {
             </Marquee>
         </div>
     )
-=======
+    
 import Marquee from "react-fast-marquee"
 
 export default function Slider() {
@@ -42,5 +41,4 @@ export default function Slider() {
             </Marquee>
         </div>
     )
->>>>>>> b4bf71bf3240c994200e1483e5b2721bf35205d2
 }
