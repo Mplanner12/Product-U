@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,300;0,500;0,700;1,200&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'IBM Plex Sans';
+    src: local('IBM Plex Sans'), url('../public/fonts/IBMPlexSans-Regular.ttf') format('truetype')
+}
+
+
+*{
+    box-sizing: border-box;
+    height: fit-content;
+    width: auto;
+    padding: 0;
+    margin: 0;
+<<<<<<< HEAD
+    font-family: 'IBM' !important;
+};
+
+html body{
+    font-family: 'IBM' !important;
+=======
+    font-family: 'IBM Plex Sans', sans-serif;
+>>>>>>> b4bf71bf3240c994200e1483e5b2721bf35205d2
+}

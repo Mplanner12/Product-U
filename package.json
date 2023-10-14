@@ -1,0 +1,44 @@
+{
+  "name": "productu",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.12",
+<<<<<<< HEAD
+    "framer-motion": "^10.16.0",
+    "intersection-observer": "^0.12.2",
+=======
+    "framer-motion": "^10.16.1",
+    "jquery": "^3.7.0",
+>>>>>>> b4bf71bf3240c994200e1483e5b2721bf35205d2
+    "next": "13.4.12",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^9.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-fast-marquee": "^1.6.0",
+    "react-intersection-observer": "^9.5.2",
+<<<<<<< HEAD
+    "react-reveal": "^1.2.2"
+=======
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
+>>>>>>> b4bf71bf3240c994200e1483e5b2721bf35205d2
+  },
+  "devDependencies": {
+    "@types/node": "20.4.4",
+    "@types/react": "18.2.15",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
